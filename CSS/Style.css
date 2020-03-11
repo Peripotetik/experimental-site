@@ -128,7 +128,7 @@ H2 {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 900;
-  font-size: 14pt;
+  font-size: 18pt;
   color: black;
   background-color: inherit;
   text-align: center;
@@ -137,6 +137,7 @@ H2 {
 p {
   font-family: "Roboto", sans-serif;
   font-style: normal;
+  font-size: 16pt;
   font-weight: 500;
   color: black;
   background-color: inherit;
@@ -147,7 +148,7 @@ p {
 a {
   font-family: "Roboto", sans-serif;
   font-style: normal;
-  font-size: 12pt;
+  font-size: 16pt;
   text-decoration: underline;
   text-decoration-color: inherit;
   color: black;
@@ -172,7 +173,7 @@ a:hover {
   background-color: rgb(156, 156, 156);
   color: inherit;
   border-radius: 15px;
-  padding: 10px;
+  padding: 10px 25px 10px 25px;
   margin: 10px auto;
   box-shadow: 3px 3px 10px rgba(26, 26, 26, 0.4);
   overflow: hidden;
